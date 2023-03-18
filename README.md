@@ -37,3 +37,5 @@ This can cause two types of bugs:
 
 [1]: https://github.com/reactjs/rfcs/blob/main/text/0213-suspense-in-react-18.md#behavior-change-committed-trees-are-always-consistent
 [2]: https://github.com/ag-grid/ag-grid/blob/latest/grid-packages/ag-grid-react/src/reactUi/agGridReactUi.tsx#L114
+
+![image](https://user-images.githubusercontent.com/22385/226071437-43ee7c41-4241-4f69-baa5-580310108fc6.png)
